@@ -150,6 +150,8 @@
 <wire x1="-1.27" y1="0" x2="-1.27" y2="50.8" width="0" layer="20"/>
 <wire x1="-1.27" y1="50.8" x2="85.09" y2="50.8" width="0" layer="20"/>
 <wire x1="85.09" y1="50.8" x2="85.09" y2="0" width="0" layer="20"/>
+<text x="81.28" y="39.37" size="1.778" layer="1" font="vector" ratio="15" rot="SR270">by k_iwanowski</text>
+<text x="78.74" y="39.37" size="1.778" layer="1" font="vector" ratio="15" rot="SR270">CC-BY-SA</text>
 </plain>
 <libraries>
 <library name="ic-package">
