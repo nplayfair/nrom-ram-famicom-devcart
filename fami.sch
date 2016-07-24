@@ -15909,14 +15909,14 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
 <part name="GND10" library="supply1" deviceset="GND" device=""/>
 <part name="GND11" library="supply1" deviceset="GND" device=""/>
-<part name="C1" library="rcl" deviceset="CPOL-US" device="E2.5-6"/>
-<part name="C2" library="rcl" deviceset="C-US" device="025-025X050"/>
-<part name="R1" library="rcl" deviceset="R-US_" device="0204/7"/>
+<part name="C1" library="rcl" deviceset="CPOL-US" device="E2.5-6" value="10u"/>
+<part name="C2" library="rcl" deviceset="C-US" device="025-025X050" value="100n"/>
+<part name="R1" library="rcl" deviceset="R-US_" device="0204/7" value="1k"/>
 <part name="P+6" library="supply1" deviceset="VCC" device=""/>
 <part name="GND12" library="supply1" deviceset="GND" device=""/>
-<part name="R2" library="rcl" deviceset="R-US_" device="0204/7"/>
+<part name="R2" library="rcl" deviceset="R-US_" device="0204/7" value="1k"/>
 <part name="GND13" library="supply1" deviceset="GND" device=""/>
-<part name="C3" library="rcl" deviceset="C-US" device="025-025X050"/>
+<part name="C3" library="rcl" deviceset="C-US" device="025-025X050" value="100n"/>
 <part name="G2" library="battery" deviceset="B2430UNI" device=""/>
 </parts>
 <sheets>
